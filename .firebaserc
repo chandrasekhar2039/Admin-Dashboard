@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "client-projects-9144f"
+  },
+  "targets": {
+    "client-projects-9144f": {
+      "hosting": {
+        "banhara-admin-panel": [
+          "banhara-admin-panel"
+        ]
+      }
+    }
+  }
+}
